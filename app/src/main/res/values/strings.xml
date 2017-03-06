@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Food Menu</string>
+    <string name="imgLarge">Food</string>
+    <string name="txtPZ_Buger">ground beef \t\tslices mozzarella \t\tpepperoni slices \t\tmarinara \t\tItalian rolls (or hamburger buns) \t\tmelted butter \t\tgarlic powder \t\tItalian seasoning \t\tgrated Parmesan</string>
+    <string name="txtVeggie">extra-firm tofu Olive oil cremini mushrooms kidney beans cashews Cotija cheese 2 large eggs mayonnaise scallions brown rice</string>
+    <string name="txtMeaty">2 pounds ground beef  \t\t jalapeno peppers  \t\t blue cheese  \t\t soy sauce  \t\t Swiss cheese</string>
+</resources>
